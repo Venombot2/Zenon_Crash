@@ -4,19 +4,19 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "48459439078"
-global.ownername = "Toxxic Md"
-global.ytname = "Toxxic Md"
+global.ownernomer = "2348102790119"
+global.ownername = "HYDRA'S killing bug"
+global.ytname = "HYDRA'S killing bug"
 global.socialm = "GitHub: Toxic1239"
 global.location = "Africa, Nigeria, Lagos"
 
-global.ownernumber = '48459439078'  //creator number
-global.ownername = 'Toxxic Md' //owner name
-global.botname = 'ᴢᴇɴᴏɴ ᴍᴅ' //name of the bot
+global.ownernumber = '+2348102790119'  //creator number
+global.ownername = 'HYDRA killing bug' //owner name
+global.botname = 'HYDRA S killing bug' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'ZENON\n\nContact: 48459439078'
+global.author = 'ZENON\n\nContact: +2348102790119'
 
 //console view/theme
 global.themeemoji = '💀'
@@ -31,7 +31,7 @@ global.prefa = ['','!','.','#','&']
 //false=disable and true=enable
 global.autoRecording = false //auto recording
 global.autoTyping = false //auto typing
-global.autorecordtype = true //auto typing + recording
+global.autorecordtype = false  //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = true //auto update bio
 global.anti92 = false //auto block +92 
